@@ -39,7 +39,7 @@ module.exports = {
     node1: {
       host: "127.0.0.1",
       port: 22000,
-      from: "0x49dc77e334760200dc62a90ff10041fc1ebfad54",
+      from: "0x5068b36a01eb4f7d2f1496f0deff1cade02ba6e1",
       network_id: "*",
       gas: 4500000,
       gasPrice: 0, // needed for quorum
